@@ -1,0 +1,50 @@
+{
+	"name" : "acplo/acplocart",
+	"description" : "Cart in ZF2",
+	"type" : "zf2-module",
+	"authors" : [{
+			"name" : "Vincenzo Provenza",
+			"email" : "info@ilovecode.it",
+			"homepage" : "http://ilovecode.it/",
+			"role" : "Developer"
+		}, {
+			"name" : "Concetto Vecchio",
+			"email" : "info@cvsolutions.it",
+			"homepage" : "http://cvsolutions.it/",
+			"role" : "Developer"
+		}
+	],
+	"keywords" : [
+		"zend cart",
+		"cart",
+		"e-commerce",
+		"zf2 module",
+		"carrello zf2"
+	],
+	"homepage" : "https://github.com/acplo/AcploCart",
+	"license" : [
+		"BSD-3-Clause"
+	],
+	"require" : {
+		"php" : ">=5.4.0",
+		"zendframework/zendframework" : "2.*"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"AcploCart" : "src"
+		},
+		"classmap" : [
+			"./Module.php"
+		]
+	},
+	"minimum-stability" : "beta",
+	"support" : {
+		"email" : "info@cvsolutions.it"
+	},
+	"repositories" : [{
+			"name" : "AcploCart",
+			"type" : "git",
+			"url" : "https://github.com/acplo/AcploCart.git"
+		}
+	]
+}
