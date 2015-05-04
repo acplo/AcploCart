@@ -1,7 +1,8 @@
-[![Latest Stable Version](https://poser.pugx.org/acplo/acplocart/v/stable)](https://packagist.org/packages/acplo/acplocart) [![Total Downloads](https://poser.pugx.org/acplo/acplocart/downloads)](https://packagist.org/packages/acplo/acplocart) [![Latest Unstable Version](https://poser.pugx.org/acplo/acplocart/v/unstable)](https://packagist.org/packages/acplo/acplocart) [![License](https://poser.pugx.org/acplo/acplocart/license)](https://packagist.org/packages/acplo/acplocart)
 
 AcploCart
 ============================
+[![Latest Stable Version](https://poser.pugx.org/acplo/acplocart/v/stable)](https://packagist.org/packages/acplo/acplocart) [![Total Downloads](https://poser.pugx.org/acplo/acplocart/downloads)](https://packagist.org/packages/acplo/acplocart) [![Latest Unstable Version](https://poser.pugx.org/acplo/acplocart/v/unstable)](https://packagist.org/packages/acplo/acplocart) [![License](https://poser.pugx.org/acplo/acplocart/license)](https://packagist.org/packages/acplo/acplocart)
+
 Version 1.0
 
 This model allows you to manage a shopping cart for e-commerce in an easy, simple and fast.
