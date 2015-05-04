@@ -1,5 +1,5 @@
-[![Total Downloads](https://poser.pugx.org/acplocart/acplocart/downloads.png)]
-(https://packagist.org/packages/acplocart/acplocart)
+[![Latest Stable Version](https://poser.pugx.org/acplo/acplocart/v/stable)](https://packagist.org/packages/acplo/acplocart) [![Total Downloads](https://poser.pugx.org/acplo/acplocart/downloads)](https://packagist.org/packages/acplo/acplocart) [![Latest Unstable Version](https://poser.pugx.org/acplo/acplocart/v/unstable)](https://packagist.org/packages/acplo/acplocart) [![License](https://poser.pugx.org/acplo/acplocart/license)](https://packagist.org/packages/acplo/acplocart)
+
 AcploCart
 ============================
 Version 1.0
