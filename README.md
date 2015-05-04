@@ -1,4 +1,5 @@
-[![Total Downloads](https://poser.pugx.org/acplocart/acplocart/downloads.png)](https://packagist.org/packages/acplocart/acplocart)
+[![Total Downloads](https://poser.pugx.org/acplocart/acplocart/downloads.png)]
+(https://packagist.org/packages/acplocart/acplocart)
 AcploCart
 ============================
 Version 1.0
@@ -17,7 +18,7 @@ Add this project in your composer.json:
 
 
     "require": {
-        "acplo/acplocart": "dev-master"
+	"acplo/acplocart": "0.0.1"
     }
     
 
